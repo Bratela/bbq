@@ -9,10 +9,11 @@ ru:
     # Перевод названий аттрибутов моделей
     attributes:
       user:
-        email: 'Email'
+        email: 'E-mail'
         name: 'Имя'
         password: 'Пароль'
         password_confirmation: 'Подтверждение пароля'
+        remember_me: 'Запомнить меня на долго.'
       event:
         title: 'Название'
         address: 'Место проведения'
